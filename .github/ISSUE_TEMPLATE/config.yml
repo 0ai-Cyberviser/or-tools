@@ -1,8 +1,8 @@
-blank_issues_enabled: false
-
+blank_issues_enabled: true
 contact_links:
-- name: Modeling/Usage problem
-  url: https://groups.google.com/forum/#!forum/or-tools-discuss
-  about: Need help creating your model ?
-    Please use the mailing list for modeling issues.
-    Github issues have limited audience and answers on the github page will not benefit the rest of the users.
+  - name: 0AI Support
+    url: https://github.com/0ai-Cyberviser/or-tools/blob/stable/SUPPORT.md
+    about: Portfolio support and owner contact for this repository.
+  - name: Private Security Reporting
+    url: https://github.com/0ai-Cyberviser/or-tools/blob/stable/SECURITY.md
+    about: Report vulnerabilities and safety issues privately.
